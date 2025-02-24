@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vus5bt9l3-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vus5bt9l3-python-gitops
